@@ -1,0 +1,6 @@
+{
+  "name": "Web Dev Practice Terminal",
+  "description": "An interactive Web Development study and practice application covering HTML, CSS, and Internet basics with quizzes and a built-in mock compiler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
